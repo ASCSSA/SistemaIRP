@@ -1,0 +1,1 @@
+C:\Proyectos\VS2015\SistemaIRP\DeskIRP\bin\Debug\DeskIRP.exe.config
